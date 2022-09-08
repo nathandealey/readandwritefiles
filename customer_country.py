@@ -16,3 +16,5 @@ for record in csvfile:
     outfile.write(full_name + ',' + country + '\n')
 
 outfile.close
+
+#need if loop
